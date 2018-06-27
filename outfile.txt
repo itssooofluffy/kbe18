@@ -1,0 +1,3 @@
+In method: ich bin public und static!
+In method2: ich bin public!
+There are 2 runnable methods with the RunMe Annotation inside the Class. there are 12 methods inside the Class.
